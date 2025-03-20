@@ -1,7 +1,7 @@
 # 🏆 CodeWars Solutions Repository 🏆
 
 <div align="center">
-    <img width="4500" src="/assets/hero2.png" alt="My working pic">
+    <img width="450" src="/assets/hero1.png" alt="My working pic">
 </div>
 
 <div align="center">
@@ -103,6 +103,8 @@ cd CodeWars-Solutions
 ## ⚖️ License
 
 This repository is licensed under the MIT License - see the LICENSE file for details.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 <div align="center">
   <p>⭐ Star this repository if you find it useful! ⭐</p>
