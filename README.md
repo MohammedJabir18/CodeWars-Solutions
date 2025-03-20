@@ -6,8 +6,6 @@
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUzODU5ZGJiYzczMjAxNmE0NjQxYzI1NmU0NGE4M2NlZWM1M2VmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMt9638dO8dftAjtco/giphy.gif" width="100">
-  
   [![GitHub last commit](https://img.shields.io/github/last-commit/MohammedJabir18/CodeWars-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/CodeWars-Solutions)
   [![GitHub repo size](https://img.shields.io/github/repo-size/MohammedJabir18/CodeWars-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/CodeWars-Solutions)
   [![GitHub stars](https://img.shields.io/github/stars/MohammedJabir18/CodeWars-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/CodeWars-Solutions/stargazers)
