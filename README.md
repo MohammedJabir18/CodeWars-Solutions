@@ -4,7 +4,7 @@
     <img width="450" src="/assets/hero1.png" alt="My working pic">
 </div>
 
-<div align="center" style="margin-top: 50px">
+<div align="center">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUzODU5ZGJiYzczMjAxNmE0NjQxYzI1NmU0NGE4M2NlZWM1M2VmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMt9638dO8dftAjtco/giphy.gif" width="100">
   
